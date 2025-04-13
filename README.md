@@ -12,8 +12,7 @@ This project demonstrates how to deploy a Python Flask app on an AWS EC2 instanc
 
 ## 🛠️ Technologies Used
 
-- Python 3.9
-- Flask
+- Python3
 - Gunicorn
 - AWS EC2
 - HTML + CSS (light)
@@ -30,19 +29,22 @@ This project demonstrates how to deploy a Python Flask app on an AWS EC2 instanc
 ![brave_CY2FWPjyDm](https://github.com/user-attachments/assets/d2e23f61-33a1-4487-a35e-18a48ebaca6e)
 
 
-## 🎥 Demo
+
+## ⚙️ How to Run
+![py 1](https://github.com/user-attachments/assets/796f7170-a262-40ce-9f7e-11514f606620)
+
+
 
 - [work in foreground]
 
 https://github.com/user-attachments/assets/ee76aa74-3035-4ff1-932e-71d5b7a4a59d
 
 
+
 - [work in background using unicorn]
-  
 
 https://github.com/user-attachments/assets/98306ee2-680c-4178-b630-767a87d5f7af
 
 
 
-## ⚙️ How to Run
-![py 1](https://github.com/user-attachments/assets/796f7170-a262-40ce-9f7e-11514f606620)
+
